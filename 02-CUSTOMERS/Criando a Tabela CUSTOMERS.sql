@@ -1,5 +1,5 @@
 -- Tarefa 02 (23/03/2024)
--- Criando a tabela CUSTOMERS
+-- Criando a tabela CUSTOMERS (Clientes)
 
 CREATE TABLE CUSTOMERS (
   ID INTEGER PRIMARY KEY AUTOINCREMENT,
